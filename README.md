@@ -6,7 +6,7 @@
 ## Aim: 
 To explore the fundamentals of User Interface (UI) and User Experience (UX), differentiate UI 
 and UX using real-world examples, understand their relationship in the design process, and 
-demonstrate various UI/UX design tools. 
+demonstrate various UI/UX design tools.
 
 ## Algorithm: 
 1. Study the basic concepts and principles of UI and UX design. 
@@ -161,5 +161,6 @@ Canva can be used for:
 <img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/83d25c4f-192e-4946-9f63-7fe80c079876" />
 <img width="1910" height="883" alt="image" src="https://github.com/user-attachments/assets/4817a695-63cc-406d-b2f8-400294349d5c" />
 Both Amazon and Flipkart provide similar e-commerce functions such as search, product browsing, categories, cart, and account management. However, their UI differs in terms of color scheme, typography, layout, icons, and visual presentation. Their UX can be compared based on ease of navigation, product discovery, filtering, checkout, and overall user convenience.
+
 ## Result:
 The fundamentals of UI and UX were studied successfully. The differences and relationship between UI and UX were understood using real-world applications. Various UI/UX design tools were explored, and a basic user interface prototype for an online shopping application was designed using UI/UX principles.
