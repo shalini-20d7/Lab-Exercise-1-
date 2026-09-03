@@ -2,6 +2,7 @@
 ## UI- UX  EXPERIMENT 1
 ## NAME : SHALINI D
 ## REG NO : 212225040398
+## Date : 22-07-2026
 
 ## Aim: 
 To explore the fundamentals of User Interface (UI) and User Experience (UX), differentiate UI 
